@@ -7,7 +7,8 @@
     </a>
   </div>
 </div>
-
+<br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,10 +27,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jefersongsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jefersongsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongsg&layout=compact&langs_count=10&theme=radical" alt="Top Langs" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongsg&layout=compact&langs_count=10&theme=radical" alt="Top Langs" />
   </a>
 </div>
 
