@@ -27,11 +27,11 @@
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jefersongsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jefersongsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongsg&layout=compact&langs_count=10&theme=radical" alt="Top Langs" />
-  </a>
+  <br>
+  <br>
+   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongsg&layout=compact&langs_count=10&theme=radical&hide=others" alt="Top Langs" />
 </div>
 
 <br>
@@ -40,6 +40,7 @@
   <p>"99 bugs no código, tirei 1, agora tem 117..."</p>
   <p>"Meu código funciona... só que não do jeito que eu esperava."</p>
 </div>
+<br>
 <div align="center">
   <h2>Sobre Mim</h2>
   <p>Sou um programador Full Stack apaixonado por tecnologia e inovação. Adoro criar soluções criativas e aprender novas ferramentas. Estou atualmente focado em projetos com Node.js, React e MongoDB. Vamos colaborar?</p>
