@@ -21,10 +21,10 @@
 </div>
 <br>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jefersongsg&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="Troféus GitHub"/>
-</div>
-<div  align="center">
+</div>-->
+<div  align="center"> 
 <h3>Alguns do meus Projetos:</h3>
 
  [projeto jokenpô](https://jokenpogsg.netlify.app/)
