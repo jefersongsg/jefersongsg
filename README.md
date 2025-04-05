@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Imagem de cabeçalho -->
   <div style="position: relative; width: 100%;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,80:0000FF&height=200&section=header" style="position: absolute; top: 0; z-index: 1;" />
-    <a href="https://git.io/typing-svg" style="position: relative; z-index: 2;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=00ff00&center=true&vCenter=true&width=900&lines=Olá!+<eu+sou+o+Jeferson>+;Programador+FullStack 👨🏻‍💻;Atualmente+estou+aprendendo+e+👨🏻‍🎓;Criando+projetos+com+as+tecnologias+abaixo:;Bem-vindo(a)!" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,80:0000FF&height=200&section=header" style="relative: absolute; margin-top: 20px; z-index: 1;" />
+    <a href="https://git.io/typing-svg" style="position: relative; z-index: 2; margin-top: -10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=6000&pause=1000&color=00ff00&center=true&vCenter=true&width=900&lines=Olá!+eu+sou+o+<Jeferson/>+;Programador+FullStack 👨🏻‍💻;Atualmente+estou+aprendendo+e+👨🏻‍🎓;Criando+projetos+com+as+tecnologias+abaixo:;Bem-vindo(a)!" alt="Typing SVG" />
     </a>
   </div>
 </div>
@@ -24,17 +24,6 @@
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jefersongsg&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="Troféus GitHub"/>
 </div>-->
-<div  align="center"> 
-<h3>Alguns do meus Projetos:</h3>
-
- [projeto jokenpô](https://jokenpogsg.netlify.app/)
-
- [projeto sorteador](https://roaring-sfogliatella-05c873.netlify.app/)
-
- [projeto conversor de moedas](https://shimmering-bunny-3ef869.netlify.app/)
-</div>
-<br>
-<br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jefersongsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -70,6 +59,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  <br>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+<div  align="center"> 
+<h3>Alguns do meus Projetos:</h3>
+
+ [projeto jokenpô](https://jokenpogsg.netlify.app/)
+
+ [projeto sorteador](https://roaring-sfogliatella-05c873.netlify.app/)
+
+ [projeto conversor de moedas](https://shimmering-bunny-3ef869.netlify.app/)
+</div>
 <h3 align="center">Contato:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jeferson-galdino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeferson-galdino" height="30" width="40" /></a>
